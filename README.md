@@ -37,7 +37,7 @@ CIITR is:
 
 Any external reference to this repository must include:
 
-> Hansen, T.-S. (2025). *CIITR: Cognitive Integration and Information Transfer Relation (v2.0)*. Git repository. https://github.com/[TBD]/CIITR
+> Hansen, T.-S. (2025). *CIITR: Cognitive Integration and Information Transfer Relation (v2.0)*. Git repository. https://github.com/TSHansen1971/CIITR
 
 Forks, re-uploads, or partial reproductions **must** preserve axiomatic integrity and structural hierarchy.
 
