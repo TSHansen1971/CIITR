@@ -1,4 +1,7 @@
-# CIITR: Cognitive Integration and Information Transfer Relation
+# CIITR
 
-A closed theoretical corpus on structural comprehension.
-Substrate-independent diagnostic framework.
+This repository is intentionally empty.
+
+The previous contents have been removed due to structural inconsistency with the closed CIITR theoretical corpus.
+
+Reconstruction, if any, will proceed from first principles under strict ontological control.
