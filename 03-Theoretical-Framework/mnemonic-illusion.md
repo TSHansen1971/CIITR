@@ -1,8 +1,12 @@
 # The Mnemonic Illusion Principle (MIP)
 
-[cite_start]**Definisjon:** Når en sekvens av minneinntrykk (memory impressions) fremstår som forståelse uten at det forekommer en strukturell re-entry[cite: 1322, 1323].
+MIP beskriver den fundamentale feilkilden i moderne informasjonsanalyse: **Forvekslingen mellom gjenkalling og forståelse.**
 
-### Epistemisk forfalskning:
-[cite_start]Systemer med høy Φᵢ og lang hukommelse kan etterligne forståelse ved å gjenkalle lagret materiale (syntactic bluff) uten reell epistemisk krumning (curvature). 
+### 3.10 Den Syntaktiske Bløffen
+Et system med høy Relasjonell Integrasjon ($\Phi_i$) og dyp tilgang til lagret data (hukommelse) kan simulere forståelse ved å gjenfinne komplekse mønstre. CIITR kaller dette en "Mnemonic Illusion".
 
-* [cite_start]**Regel:** Hukommelse alene etablerer aldri en selvbeskrivende struktur[cite: 1315, 1332].
+* **Mekanisme:** Systemet henter ut en sekvens av minneinntrykk som er internt konsistente, men som mangler **epistemisk krumning** (curvature). 
+* **Forskjellen:** * **Mnemonic:** Lineær gjenkalling av lagret struktur.
+    * **CIITR:** Rekursiv re-entry hvor strukturen validerer seg selv i sanntid gjennom rytmisk resonans ($R^g$).
+
+> **Aksiom:** Hukommelse (Memory) er ikke bevis på forståelse; det er kun bevis på lagringskapasitet. Forståelse krever at informasjonen integreres på nytt i hver rytmiske syklus.
