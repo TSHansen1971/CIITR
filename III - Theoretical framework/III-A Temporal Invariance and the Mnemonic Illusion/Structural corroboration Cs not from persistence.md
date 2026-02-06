@@ -53,6 +53,8 @@ R_g = \begin{cases}
     >0 & \text{if return = reinterpretation}
 \end{cases}
 
+/img/Rg_cases.png
+
 
 This boundary clarifies that comprehension requires curvature through the self, not linear reappearance of the past. The immediate consequence for AI evaluation is profound:
 
