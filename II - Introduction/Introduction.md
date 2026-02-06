@@ -20,9 +20,9 @@ Absent such a metric, the study of systemic intelligence, whether in artificial 
 
 This paper introduces a minimalistic but extensible formulation:
 
-\[
-C_s = \Phi_i \times R_g
-\]
+$$
+C_{s} = \Phi_{i} \times R_{g}
+$$
 
 In this formulation, Φᵢ represents the internal density of integrated relations, that is, how tightly coupled the system’s elements are, while Rᵍ represents the global rhythmic range, that is, how far and how coherently those relations propagate.
 
