@@ -24,7 +24,7 @@ without temporal availability, rhythmic self-access cannot occur.
 But ASEC does not, and must not, confer positive value toward comprehension. To do so would repeat the category error that CIITR 1.9 is designed to correct: permitting persistence to masquerade as rhythmic epistemic activity.
 
 Where CIITR 1.0 defined the multiplicative structure  
-C<sub>s</sub> = Φ<sub>i</sub> × R<sub>g</sub>,  
+$$ C_{s} = \Phi_{i} \times R_{g} $$,  
 CIITR 1.9 adds a prior condition:
 
 If ASEC = false, then R<sub>g</sub> = 0 for any Φ<sub>i</sub>.
