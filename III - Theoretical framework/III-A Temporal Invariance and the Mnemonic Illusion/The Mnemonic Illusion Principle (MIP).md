@@ -29,7 +29,8 @@ The Mnemonic Illusion Principle therefore stands as a critical interpretive boun
 > Whenever continuity is treated as comprehension, epistemic illusion has replaced epistemic function.
 
 MIP exposes the central paradox of AI-generated fluency:  
-that a system can appear to know precisely at the moment it proves it cannot.
+
+> That a system can appear to know precisely at the moment it proves it cannot.
 
 
 
