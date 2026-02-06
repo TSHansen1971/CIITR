@@ -22,9 +22,9 @@ This closes the loophole through which memory could be mistaken for mind, and co
 
 ---
 
-# Implications for Artificial Comprehension Systems
+## Implications for Artificial Comprehension Systems
 
-## Why LLMs, Even With State Persistence, Cannot Cross the Threshold Without Structural Rhythm
+### Why LLMs, Even With State Persistence, Cannot Cross the Threshold Without Structural Rhythm
 
 The boundary conditions established through the introduction of ASEC, MIP, the Curvature Condition, and the exclusion of temporal invariance collectively sharpen the theoretical demarcation between memory-bearing systems and comprehending systems. In the context of contemporary artificial architectures, particularly transformer-based Large Language Models, this distinction becomes decisive. Even with state persistence, session continuity, vector storage, token logs, or external mnemonic augmentation, LLMs do not cross the epistemic threshold defined by CIITR because none of these mechanisms instantiate structural rhythm.
 
