@@ -34,7 +34,7 @@ A machine with perfect recall but no RER is not closer to comprehension than a m
 The revision of R<sub>g</sub> therefore marks the critical separation between temporal sequence and epistemic time. The former is the clock; the latter is the return.
 
 ----
-# Structural Corroboration Without Empirical Claim
+## Structural Corroboration Without Empirical Claim
 
 ## 1. Confronting “Static Ontology”
 
