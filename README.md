@@ -1,7 +1,7 @@
 # CIITR — Cognitive Integration and Information Transfer Relation
 <div align="center">
 
-![CIITR Structural Comprehension](III - Theoretical framework/III-A Temporal Invariance and the Mnemonic Illusion/img/CIITR_Structural_Comprehension.png)
+![CIITR Structural Comprehension](III%20-%20Theoretical%20framework/III-A%20Temporal%20Invariance%20and%20the%20Mnemonic%20Illusion/img/CIITR_Structural_Comprehension.png)
 
 </div>
 This repository constitutes the complete structural corpus of the CIITR theory (version 2.0, formally closed December 2025). It operationalizes structural comprehension as the product:
