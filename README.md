@@ -3,7 +3,7 @@
 This repository constitutes the complete structural corpus of the CIITR theory (version 2.0, formally closed December 2025). It operationalizes structural comprehension as the product:
 
 \[
-Cₛ = Φᵢ × Rᵍ
+C_{s} = \Phi_{i} \times R_{g}
 \]
 
 Where:
