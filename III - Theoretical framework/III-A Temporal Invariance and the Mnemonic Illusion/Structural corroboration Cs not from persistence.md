@@ -43,7 +43,7 @@ CIITR 1.9 defines the following boundary condition for evaluating synthetic and 
 
 <div align="center">
 
-![Formel for R_g med cases](img/Rg_cases.png)
+![Formel for R_g med cases](/img/Rg_cases.png)
 
 </div>
 
