@@ -237,6 +237,17 @@ The theoretical foundation of C<sub>s</sub> rests on four converging pillars:
 The interaction among these pillars defines structural comprehension as a measurable and predictive property. Through Φ<sub>i</sub> × R<sub>g</sub>, the model condenses epistemology, information theory, and complexity dynamics into one operational expression of understanding.
 
 ---
+## Structural Corroboration Without Empirical Claim
+
+The arguments developed in this chapter establish structural comprehension as a formally defined property of systems, grounded in the internal coherence of relations (Φ<sub>i</sub>) and the sustained propagation of rhythm (R<sub>g</sub>). All references to complexity theory, information theory, Integrated Information Theory, Global Workspace Theory, and related frameworks serve an explicitly structural and conceptual function. They are invoked to demonstrate formal compatibility, analogical alignment, and ontological continuity, not to assert empirical confirmation of the C<sub>s</sub> metric.
+
+No empirical measurements, datasets, correlations, or validation results are claimed or implied in this chapter. Descriptions of measurability, operationalization, or testability are presented solely to establish that the proposed constructs are, in principle, observable and falsifiable within appropriate experimental or analytical regimes. Such statements do not constitute evidence that these measurements have been performed, nor that the outcomes support the model.
+
+Accordingly, the coherence demonstrated between C<sub>s</sub>, Φ<sub>i</sub>, and R<sub>g</sub>, and the structural correspondences drawn to existing theoretical traditions, must be read as formal corroboration without empirical claim. The chapter delineates necessary structural relations and boundary conditions within the CIITR framework, while deferring all questions of empirical estimation, validation, or comparative performance to later methodological and applied sections.
+
+This distinction is essential. The present analysis establishes what must be the case if structural comprehension is to exist as a coherent ontological category. It does not assert that any particular biological, artificial, or organizational system satisfies these conditions, nor that observed systems instantiate C<sub>s</sub> at any given magnitude. The role of this chapter is therefore constitutive and definitional, not evidentiary.
+
+---
 
 ## Footnotes
 
