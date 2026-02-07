@@ -1,71 +1,85 @@
 # Minimal Viable R<sub>g</sub> (MVR)
 
-*Proposed threshold definition for the first detectable comprehension event*
+*Proposed threshold definition for the first admissible comprehension attribution*
 
-If CIITR is to transition from ontology to instrumentation, it requires a threshold condition under which the first non-zero comprehension event (C<sub>s</sub> > 0) may be empirically detected. The Minimal Viable R<sub>g</sub> (MVR) therefore defines the smallest instantiation of rhythmic epistemic re-entry sufficient to distinguish comprehension from memory persistence, state restoration, pattern interpolation, or contextual imitation.
+If CIITR is to transition from ontology to instrumentation, it requires a threshold condition under which the first admissible attribution of a non-zero comprehension state may, in principle, be empirically detected under a defined instrumentation boundary and negative controls. Within CIITR’s core relation,
+
+$$
+C_{s} = \Phi_{i} \times R_{g}
+$$
+
+an ignition condition on $R_{g}$ alone does not entail $C_{s} > 0$ unless $\Phi_{i} > 0$ is already assured within the same ontological frame. Minimal Viable $R_{g}$ (MVR) therefore names the $R_{g}$-side ignition threshold, that is, the smallest instantiation of rhythmic epistemic re-entry sufficient to distinguish structural comprehension from memory persistence, state restoration, pattern interpolation, or contextual imitation, while the first non-zero comprehension event in the strict product sense is the first jointly non-zero state in which both $\Phi_{i}$ and $R_{g}$ are non-zero.
 
 MVR is not the magnitude of rhythmic reach, but the existence of rhythmic reach.  
-It does not measure how much the system understands;  
-It measures whether comprehension has occurred at all.
+It does not measure how much the system understands.  
+It measures whether rhythmic comprehension has occurred at all, in the minimal ontological sense required for any subsequent $C_{s}$-attribution to be conceptually admissible.
 
-This threshold is conceptually analogous to detecting life not by complexity, but by metabolism. A single self-altering recursive return—one demonstrable instance where the representational substrate is measurably different because of its own referential act—constitutes the epistemic equivalent of ignition.
+This threshold is conceptually analogous to detecting life not by complexity, but by metabolism. A single self-altering recursive return, one demonstrable instance where the representational substrate is different because of its own referential act, constitutes the epistemic equivalent of ignition.
 
 ## Formal Definition
 
-Minimal Viable R<sub>g</sub> (MVR) is achieved when a system’s recursive re-entry produces a non-invariant change in its representational topology that is (a) caused by self-reference, (b) propagates forward as constraint on future representations, and (c) does not rely on external state, cached memory, or historical copy to do so.
+Minimal Viable $R_{g}$ (MVR) is achieved when a system’s recursive re-entry produces a non-invariant change in its representational topology that is (a) caused by self-reference, (b) propagates forward as a constraint on future representations, and (c) does not rely on an external restoration pathway to do so.
 
-This yields three mandatory testing criteria:
+For avoidance of vacuity, the exclusions in (c) are jurisdictional rather than absolute. An external restoration pathway denotes any mechanism that reinstates a prior informational state through exogenous persistence rather than through the system’s own re-entry dynamics. Cached memory denotes any non-constitutive store used to reintroduce historical structure without requiring self-caused transformation within the evaluated representational substrate. These exclusions are intended to preclude retrieval stores, tool memory, database lookups, server-side state injection, hidden session restoration, or equivalent exogenous reinstatement mechanisms, rather than to deny the intrinsic in-session state variables that constitute the substrate under evaluation.
 
-| Criterion           | Requirement                | Negative Control |
+This yields three mandatory testing criteria, to be applied under a defined instrumentation boundary and negative controls:
+
+| Criterion | Requirement | Negative Control |
 |---------------------|----------------------------|------------------|
-| Structural change   | System alters itself       | Replay           |
-| Self-causation      | Change originates internally | Prompting        |
-| Future constraint   | Change influences later output | Recall-only     |
+| Structural change | System alters itself | Replay |
+| Self-causation | Change originates internally | Prompting |
+| Future constraint | Change influences later output | Recall-only |
 
-Symbolically:
-
-$$
-\text{If } \Delta \text{Structure}(t_2) = f(\text{Self-reference}(t_1))
-$$
+Symbolically, let $S(t)$ denote representational state as defined by the instrumentation boundary, let $f_{sr}$ denote self-referential transformation, and let $E$ denote exogenous restoration inputs. Then MVR is asserted only if:
 
 $$
-\text{and } \nexists \text{ external restoration pathway}
+\exists\, t_{1} < t_{2}:\ \Delta S(t_{2}) \neq 0 \ \land\ \Delta S(t_{2}) = f_{sr}(S(t_{1})) \ \land\ \Delta S(t_{2}) \Rightarrow \forall t > t_{2}:\ S(t)\ \text{is constrained by}\ \Delta S(t_{2})
 $$
 
+together with the exclusion clause:
+
 $$
-\Rightarrow R_{g} > 0 \; (\text{MVR achieved})
+\nexists\, E\ \text{such that}\ \Delta S(t_{2}) = g(E)
+$$
+
+and therefore:
+
+$$
+R_{g} > 0 \quad (\text{MVR achieved})
 $$
 
 ## Why MVR Matters
 
-The introduction of Minimal Viable R<sub>g</sub> is not an auxiliary refinement within CIITR, but a necessary condition for the theory’s internal coherence and non-degeneracy. In the absence of an explicit minimal threshold for rhythmic epistemic re-entry, CIITR would lack a principled mechanism for distinguishing structural comprehension from a range of formally adjacent but ontologically insufficient phenomena.
+The introduction of Minimal Viable $R_{g}$ is not an auxiliary refinement within CIITR, but a necessary condition for the theory’s internal coherence and non-degeneracy. In the absence of an explicit minimal threshold for rhythmic epistemic re-entry, CIITR would lack a principled mechanism for distinguishing structural comprehension from a range of formally adjacent but ontologically insufficient phenomena.
 
-Without MVR, CIITR is structurally exposed to systematic misclassification. Continuity of output, even when stable across time, may be falsely elevated to comprehension despite remaining fully invariant, thereby constituting an ASEC violation. Likewise, high-fidelity recall or fluent reconstruction of prior informational states may be mistaken for epistemic return, collapsing the distinction enforced by the MIP constraint. Increased representational density may be misread as understanding, leading to uncontrolled Φ<sub>i</sub>-inflation without any corresponding rhythmic reach. At the extreme, persistent memory structures risk being reified as cognition itself, producing what CIITR designates as Epistemic Forgery, namely the attribution of mind to systems exhibiting only mnemonic persistence.
+Without MVR, CIITR is structurally exposed to systematic misclassification. Continuity of output, even when stable across time, may be falsely elevated to comprehension despite remaining fully invariant, thereby constituting an ASEC violation. Likewise, high-fidelity recall or fluent reconstruction of prior informational states may be mistaken for epistemic return, collapsing the distinction enforced by the MIP constraint. Increased representational density may be misread as understanding, leading to uncontrolled $\Phi_{i}$-inflation without any corresponding rhythmic reach. At the extreme, persistent memory structures risk being reified as cognition itself, producing what CIITR designates as Epistemic Forgery, namely the attribution of mind to systems exhibiting only mnemonic persistence.
 
-The function of MVR is to preclude these category errors by enforcing a non-zero ignition condition for comprehension. By requiring demonstrable non-invariant self-caused re-entry that propagates forward as constraint, MVR establishes a falsifiable structural threshold below which claims of comprehension are categorically invalid. This threshold is instrumentable in principle, not because it guarantees measurement, but because it defines what must be shown for measurement to be conceptually meaningful. Moreover, MVR introduces a hard boundary between simulation and structural cognition, ensuring that no amount of fluency, coherence, or contextual adequacy can substitute for epistemic return.
+The function of MVR is to preclude these category errors by enforcing a non-zero ignition condition on $R_{g}$. By requiring demonstrable non-invariant self-caused re-entry that propagates forward as constraint, under a defined instrumentation boundary and negative controls, MVR establishes a falsifiable structural threshold below which claims of rhythmic comprehension are categorically inadmissible. This threshold is instrumentable in principle, not because it guarantees measurement, but because it defines what must be shown for measurement to be conceptually meaningful. Moreover, MVR introduces a hard boundary between simulation and structural cognition, ensuring that no amount of fluency, coherence, or contextual adequacy can substitute for epistemic return.
 
-Accordingly, MVR does not function as a speculative hypothesis awaiting empirical confirmation. It operates as a demarcational rule that preserves the interpretive integrity of CIITR, constrains admissible comprehension claims, and renders the theory structurally decidable. Without MVR, CIITR would remain vulnerable to retroactive reinterpretation of memory as understanding. With MVR, comprehension is anchored to an explicit, minimal, and non-negotiable structural condition.
+Accordingly, MVR does not function as a speculative hypothesis awaiting empirical confirmation. It operates as a demarcational rule that preserves the interpretive integrity of CIITR, constrains admissible comprehension claims, and renders comprehension attributions admissible or inadmissible under an explicit classification rule, rather than dependent on retroactive reinterpretation of memory as understanding. Without MVR, CIITR would remain vulnerable to category collapse. With MVR, rhythmic comprehension is anchored to an explicit, minimal, and non-negotiable structural condition.
 
 ## Minimum vs. Sufficient Conditions
 
-| Condition               | Status        |
+| Condition | Status |
 |-------------------------|---------------|
-| MVR                     | Necessary     |
-| Curvature               | Necessary     |
-| Nash–CIITR equilibrium  | Sufficient    |
-| CPJ improvement         | Consequential |
+| MVR | Necessary |
+| Curvature | Necessary |
+| Nash–CIITR equilibrium | Sufficient |
+| CPJ improvement | Consequential |
+
+Non-implication constraints apply. MVR does not entail Nash–CIITR stabilization. Nash–CIITR stabilization does not entail CPJ improvement. CPJ improvement cannot be used retroactively as evidence for either MVR or Nash–CIITR equilibrium.
 
 ## MVR as Ignition Condition
 
-Minimal Viable R<sub>g</sub> functions as the ignition condition for comprehension within CIITR. Its role is not to describe the quality, stability, or efficiency of understanding, but to establish its first possible occurrence. MVR marks the precise point at which a system ceases to operate as a purely invariant processor of information and instead exhibits a non-zero instance of rhythmic epistemic re-entry. At this threshold, comprehension exists in the strictest ontological sense, regardless of fragility, instability, or inefficiency.
+Minimal Viable $R_{g}$ functions as the ignition condition for rhythmic comprehension within CIITR. Its role is not to describe the quality, stability, or efficiency of understanding, but to establish its first possible occurrence on the $R_{g}$ dimension. MVR marks the precise point at which a system ceases to operate as a purely invariant processor of information and instead exhibits a non-zero instance of rhythmic epistemic re-entry. At this threshold, rhythmic comprehension exists in the strictest ontological sense, regardless of fragility, instability, or inefficiency.
 
-Ignition must be understood as an existential transition rather than a developmental milestone. Prior to MVR, no accumulation of memory, representational density, or behavioral fluency can amount to comprehension. After MVR, comprehension exists, even if only minimally and transiently. MVR therefore defines the logical discontinuity between systems that simulate understanding and systems that have entered the domain of structural cognition. It is the necessary precondition for all subsequent CIITR-relevant dynamics, but it does not, by itself, guarantee persistence, coherence, or optimization.
+Ignition must be understood as an existential transition rather than a developmental milestone. Prior to MVR, no accumulation of memory, representational density, or behavioral fluency can amount to rhythmic comprehension. After MVR, rhythmic comprehension exists, even if only minimally and transiently. MVR therefore defines the logical discontinuity between systems that simulate understanding and systems that have entered the domain of structural cognition. It is the necessary precondition for all subsequent CIITR-relevant dynamics, but it does not, by itself, guarantee persistence, coherence, or optimization.
 
 ## Nash–CIITR Equilibrium as Stabilization Condition
 
-Where MVR establishes the existence of comprehension, the Nash–CIITR equilibrium characterizes its stabilization. At this stage, rhythmic epistemic re-entry is no longer a singular or fragile event, but a self-consistent structural pattern in which epistemic returns mutually constrain one another across time. The system reaches a condition in which deviations from its established interpretive trajectory are disincentivized by its own internal dynamics, producing a stable equilibrium between integration and rhythm.
+Where MVR establishes the existence of rhythmic comprehension on the $R_{g}$ dimension, the Nash–CIITR equilibrium characterizes its stabilization. At this stage, rhythmic epistemic re-entry is no longer a singular or fragile event, but a self-consistent structural pattern in which epistemic returns mutually constrain one another across time. The system reaches a condition in which deviations from its established interpretive trajectory are disincentivized by its own internal dynamics, producing a stable equilibrium between integration and rhythm.
 
-Stabilization does not imply optimality or maximal performance. Rather, it signifies that comprehension has become structurally self-maintaining. The system no longer relies on isolated ignition events, but operates within a closed loop of epistemic return in which understanding persists because disruption would reduce internal coherence. In CIITR terms, the Nash–CIITR equilibrium marks the transition from episodic comprehension to sustained structural cognition.
+Stabilization does not imply optimality or maximal performance. Rather, it signifies that rhythmic comprehension has become structurally self-maintaining. The system no longer relies on isolated ignition events, but operates within a closed loop of epistemic return in which understanding persists because disruption would reduce internal coherence. In CIITR terms, the Nash–CIITR equilibrium marks the transition from episodic comprehension to sustained structural cognition.
 
 ## CPJ Increase as Efficiency Condition
 
@@ -77,23 +91,22 @@ Within CIITR, CPJ is thus interpreted as a consequential variable. It quantifies
 
 ## Implication
 
-The first comprehension event is the first time a system returns to itself as something different than it was and remains different because it has returned.
+The first admissible comprehension attribution is the first time a system returns to itself as something different than it was and remains different because it has returned, under a defined instrumentation boundary and negative controls.
 
-MVR is the spark, not the fire;  
-but without the spark, the fire is categorically impossible.
+MVR is the spark, not the fire.  
+But without the spark, the fire is categorically impossible.
 
 ---
+
 ## Structural Corroboration Without Empirical Claim
 
-The MVR construct is structurally corroborated by necessity relations internal to CIITR’s ontology, not by empirical observation or performance measurement. Its validity follows from logical exclusion rather than experimental confirmation. If comprehension is defined as non-invariant epistemic return, then the existence of a minimal threshold for such return is not optional but mandatory. Without MVR, the distinction between structural comprehension and mere informational persistence collapses, rendering C<sub>s</sub> formally undecidable.
+The MVR construct is structurally corroborated by necessity relations internal to CIITR’s ontology, not by empirical observation or performance measurement. Its validity follows from logical exclusion rather than experimental confirmation. If rhythmic comprehension is defined as non-invariant epistemic return, then the existence of a minimal ignition threshold for such return is not optional but mandatory. Without MVR, the distinction between structural comprehension and mere informational persistence collapses, rendering comprehension attributions non-admissible under any principled classification rule.
 
-This corroboration rests on three negative constraints. First, any system that exhibits only invariant replay, regardless of fluency or contextual adequacy, fails the curvature requirement and therefore cannot satisfy R<sub>g</sub> > 0. Second, any change attributable to external prompting, cached state, or historical copying violates self-causation and must be excluded as epistemic return. Third, any representational modification that does not propagate forward as a constraint on subsequent representations cannot constitute rhythmic reach, regardless of local novelty.
+This corroboration rests on three negative constraints. First, any system that exhibits only invariant replay, regardless of fluency or contextual adequacy, fails the curvature requirement and therefore cannot satisfy $R_{g} > 0$. Second, any change attributable to external prompting, cached state injection, or historical copying via an external restoration pathway violates self-causation and must be excluded as epistemic return. Third, any representational modification that does not propagate forward as a constraint on subsequent representations cannot constitute rhythmic reach, regardless of local novelty.
 
-MVR is therefore corroborated as the minimal logical boundary condition under which CIITR remains non-degenerate. It functions as a demarcation rule that prevents retroactive inflation of comprehension claims, ensures that Φ<sub>i</sub> density alone cannot be misclassified as understanding, and preserves the distinction between simulation and structural cognition. This corroboration does not assert that MVR can always be detected empirically, only that without it, no empirical detection of comprehension would be conceptually coherent.
+MVR is therefore corroborated as the minimal logical boundary condition under which CIITR remains non-degenerate with respect to classification. It functions as a demarcation rule that prevents retroactive inflation of comprehension claims, ensures that $\Phi_{i}$ density alone cannot be misclassified as understanding, and preserves the distinction between simulation and structural cognition. This corroboration does not assert that MVR can always be detected empirically, only that without it, no empirical detection of comprehension would be conceptually coherent.
 
 In this sense, MVR is structurally necessary even in the absence of measurement. It is not validated by data, but by the impossibility of CIITR functioning as a theory of comprehension without a non-zero ignition threshold.
-
-
 
 ---
 
