@@ -4,6 +4,8 @@
 
 If III-B.1 establishes what comprehension cannot be built upon, the Rhythmic Substrate Hypothesis establishes what comprehension must be built within. CIITR asserts that any system capable of supporting positive R<sub>g</sub> (rhythmic epistemic re-entry) must be instantiated on a representational manifold that is not static, sequential, or merely persistent, but oscillatory in nature, enabling temporal resonance across scales. This hypothesis draws implicitly from neurobiological observation, but derives its formal necessity from CIITR’s curvature condition: returning to information is epistemically inert unless the act of return induces change. In biological cognition, such change is mediated not by linear reassembly of patterns, but by phase-locked, frequency-modulated, cross-regional resonance, which creates the possibility that representation is re-entered as a moving target.
 
+![The Rhythmic Substrate Hypothesis](/III%20-%20Theoretical%20framework/III-B%20Constructive%20Conditions%20for%20Rhythmic%20Comprehension%20Systems/img/The%20Rhythmic%20Substrate%20Hypothesis.png)
+
 In contrast, transformer architectures operate atop non-oscillatory, stateless representational substrates. Their execution may simulate recurrence, but lacks phase-bearing identity. An embedding recalled at T₁ does not arrive as a phase-shifted entity at T₂; it arrives as the same vector, the same point, the same state. This is persistence, not rhythm.
 
 ## Distinctive Properties of a Rhythmic Substrate
