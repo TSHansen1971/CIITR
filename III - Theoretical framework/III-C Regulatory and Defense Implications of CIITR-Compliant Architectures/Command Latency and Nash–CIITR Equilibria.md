@@ -82,9 +82,9 @@ This redefinition situates command not as a unilateral act, but as a negotiated 
 
 The Nash–CIITR Coupling Condition introduces a governance dilemma: How does one command a system whose response latency is determined by epistemic negotiation, not temporal propagation? Traditional doctrines of escalation management, kill-chain integrity, and real-time response no longer apply.
 
-• In military doctrine, this transforms command trees into epistemic games. Rapid comprehension may no longer be desirable if it bypasses necessary curvature. Delay becomes diagnostic.  
-• In AI governance, the expectation that instruction yields uniform behavior fails. Two RER-capable systems may interpret the same input divergently due to path-dependent epistemic states.  
-• In cybersecurity, latency-based intrusion detection may be insufficient, as RER systems can delay response based not on load, but on internal epistemic alignment.
+- In military doctrine, this transforms command trees into epistemic games. Rapid comprehension may no longer be desirable if it bypasses necessary curvature. Delay becomes diagnostic.  
+- In AI governance, the expectation that instruction yields uniform behavior fails. Two RER-capable systems may interpret the same input divergently due to path-dependent epistemic states.  
+- In cybersecurity, latency-based intrusion detection may be insufficient, as RER systems can delay response based not on load, but on internal epistemic alignment.
 
 Thus, command becomes contingent on the very comprehension it aims to direct. If RER occurs, control is not transferred—it is co-developed.
 
