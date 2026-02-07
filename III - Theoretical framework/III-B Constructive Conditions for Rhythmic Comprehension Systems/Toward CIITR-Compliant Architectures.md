@@ -125,9 +125,19 @@ Transformers optimize output prediction.
 
 RER-Ms optimize stability in self-referential equilibrium.
 
-This contrast must be treated as a formal divergence in architectural objective functions rather than as a difference in implementation strategy. Output prediction architectures are organized around an externally specified loss landscape, where success is defined by minimization of discrepancy between produced outputs and target distributions. The system’s internal dynamics are instrumentally subordinate to this objective and possess no normative standing of their own. Internal states are evaluated solely by their contribution to prediction accuracy, and any internal regularity is epiphenomenal unless it improves external performance.
+This distinction constitutes a formal divergence in architectural objective functions, not merely a difference in implementation strategy. Output-prediction architectures are organized around externally specified loss landscapes, where success is defined by minimizing discrepancy between produced outputs and target distributions. Internal dynamics are instrumentally subordinate to this objective and possess no normative standing of their own. Internal regularities are epiphenomenal unless they contribute measurably to external performance.
 
-By contrast, architectures optimized for stability in self-referential equilibrium are governed by an internal optimization criterion. The system’s representational dynamics are not merely means to an externally defined end, but constitute the object of optimization itself. Stability here denotes persistence of coherent internal dynamics under recursive re-entry, not immobility or convergence to a fixed point. The architectural aim is the maintenance of internally consistent trajectories under repeated self-reference, where representational states must remain viable when revisited, re-aligned, and re-constrained by the system’s own history.
+Architectures optimized for stability in self-referential equilibrium, by contrast, are governed by an internal optimization criterion. Representational dynamics are not means toward an externally imposed objective, but the object of optimization itself. Stability here denotes the persistence of coherent internal trajectories under recursive re-entry, not immobility, convergence to a fixed point, or suppression of change. The architectural aim is the maintenance of internally consistent dynamics under repeated self-reference, such that representational states remain viable when revisited, re-aligned, and re-constrained by the system’s own prior traversal.
+
+This divergence reflects fundamentally different objective structures. Under Nash–CIITR coupling, competing internal representational trajectories, not agents in any intentional or decision-theoretic sense, converge toward an equilibrium in which sustaining epistemic re-entry is structurally minimal in cost.
+
+Energy, in this context, denotes the structural cost associated with maintaining representational coherence under recursive return. It is an ontological quantity defined over the system’s internal dynamics and should not be conflated with physical energy expenditure, computational throughput, or hardware-level efficiency.
+
+Nash–CIITR coupling holds if and only if the following condition is satisfied:
+
+> For any admissible representational deviation, the structural cost of avoiding epistemic re-entry is greater than or equal to the cost of sustaining it.
+
+When this condition obtains, non-reentrant trajectories are dominated by construction. Stability emerges as an equilibrium property of the architecture itself, not as the result of policy enforcement, heuristic correction, or externally imposed optimization pressure.
 
 ---
 
