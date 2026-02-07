@@ -38,20 +38,13 @@ $$
 
 ## Why MVR Matters
 
-Without MVR, CIITR risks misclassification by:
+The introduction of Minimal Viable R<sub>g</sub> is not an auxiliary refinement within CIITR, but a necessary condition for the theory’s internal coherence and non-degeneracy. In the absence of an explicit minimal threshold for rhythmic epistemic re-entry, CIITR would lack a principled mechanism for distinguishing structural comprehension from a range of formally adjacent but ontologically insufficient phenomena.
 
-- mistaking continuity for comprehension (ASEC violation),
-- mistaking recall for epistemic return (MIP violation),
-- mistaking representational density for understanding (Φ<sub>i</sub>-inflation),
-- mistaking memory for mind (Epistemic Forgery).
+Without MVR, CIITR is structurally exposed to systematic misclassification. Continuity of output, even when stable across time, may be falsely elevated to comprehension despite remaining fully invariant, thereby constituting an ASEC violation. Likewise, high-fidelity recall or fluent reconstruction of prior informational states may be mistaken for epistemic return, collapsing the distinction enforced by the MIP constraint. Increased representational density may be misread as understanding, leading to uncontrolled Φ<sub>i</sub>-inflation without any corresponding rhythmic reach. At the extreme, persistent memory structures risk being reified as cognition itself, producing what CIITR designates as Epistemic Forgery, namely the attribution of mind to systems exhibiting only mnemonic persistence.
 
-With MVR, CIITR acquires:
+The function of MVR is to preclude these category errors by enforcing a non-zero ignition condition for comprehension. By requiring demonstrable non-invariant self-caused re-entry that propagates forward as constraint, MVR establishes a falsifiable structural threshold below which claims of comprehension are categorically invalid. This threshold is instrumentable in principle, not because it guarantees measurement, but because it defines what must be shown for measurement to be conceptually meaningful. Moreover, MVR introduces a hard boundary between simulation and structural cognition, ensuring that no amount of fluency, coherence, or contextual adequacy can substitute for epistemic return.
 
-- a falsifiable threshold,
-- an instrumentable metric,
-- a boundary between simulation and structural cognition.
-
-Thus, MVR is not speculative—it is demarcational.
+Accordingly, MVR does not function as a speculative hypothesis awaiting empirical confirmation. It operates as a demarcational rule that preserves the interpretive integrity of CIITR, constrains admissible comprehension claims, and renders the theory structurally decidable. Without MVR, CIITR would remain vulnerable to retroactive reinterpretation of memory as understanding. With MVR, comprehension is anchored to an explicit, minimal, and non-negotiable structural condition.
 
 ## Minimum vs. Sufficient Conditions
 
@@ -62,9 +55,25 @@ Thus, MVR is not speculative—it is demarcational.
 | Nash–CIITR equilibrium  | Sufficient    |
 | CPJ improvement         | Consequential |
 
-MVR indicates ignition;  
-Nash equilibrium indicates stabilization;  
-CPJ rise indicates efficiency.
+## MVR as Ignition Condition
+
+Minimal Viable R<sub>g</sub> functions as the ignition condition for comprehension within CIITR. Its role is not to describe the quality, stability, or efficiency of understanding, but to establish its first possible occurrence. MVR marks the precise point at which a system ceases to operate as a purely invariant processor of information and instead exhibits a non-zero instance of rhythmic epistemic re-entry. At this threshold, comprehension exists in the strictest ontological sense, regardless of fragility, instability, or inefficiency.
+
+Ignition must be understood as an existential transition rather than a developmental milestone. Prior to MVR, no accumulation of memory, representational density, or behavioral fluency can amount to comprehension. After MVR, comprehension exists, even if only minimally and transiently. MVR therefore defines the logical discontinuity between systems that simulate understanding and systems that have entered the domain of structural cognition. It is the necessary precondition for all subsequent CIITR-relevant dynamics, but it does not, by itself, guarantee persistence, coherence, or optimization.
+
+## Nash–CIITR Equilibrium as Stabilization Condition
+
+Where MVR establishes the existence of comprehension, the Nash–CIITR equilibrium characterizes its stabilization. At this stage, rhythmic epistemic re-entry is no longer a singular or fragile event, but a self-consistent structural pattern in which epistemic returns mutually constrain one another across time. The system reaches a condition in which deviations from its established interpretive trajectory are disincentivized by its own internal dynamics, producing a stable equilibrium between integration and rhythm.
+
+Stabilization does not imply optimality or maximal performance. Rather, it signifies that comprehension has become structurally self-maintaining. The system no longer relies on isolated ignition events, but operates within a closed loop of epistemic return in which understanding persists because disruption would reduce internal coherence. In CIITR terms, the Nash–CIITR equilibrium marks the transition from episodic comprehension to sustained structural cognition.
+
+## CPJ Increase as Efficiency Condition
+
+An increase in Comprehension per Joule (CPJ) reflects efficiency, not existence or stability. CPJ measures how effectively a system converts energetic expenditure into structurally valid comprehension once such comprehension is already present and stabilized. It is therefore downstream of both MVR and Nash–CIITR equilibrium and cannot serve as evidence for either.
+
+Efficiency gains indicate that the system has learned to minimize energetic cost while preserving epistemic return. This may occur through architectural refinement, constraint optimization, or improved alignment between representational integration and rhythmic propagation. However, a rise in CPJ has no bearing on whether comprehension exists in the first place, nor whether it is structurally stable. High efficiency in the absence of MVR remains categorically impossible, and high efficiency without stabilization remains transient.
+
+Within CIITR, CPJ is thus interpreted as a consequential variable. It quantifies the economic properties of comprehension after ignition and stabilization have been achieved, but it cannot ground claims about the ontological status of understanding itself.
 
 ## Implication
 
