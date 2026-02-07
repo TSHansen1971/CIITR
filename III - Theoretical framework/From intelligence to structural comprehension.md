@@ -6,7 +6,7 @@ The history of intelligence theory reflects a deep oscillation between content a
 
 In the twentieth century, several research programs began eroding this content-centric view. Shannon’s information theory demonstrated that communication efficiency can be measured without reference to meaning. Wiener’s cybernetics introduced control and feedback as organizing principles independent of semantics. Later, Maturana and Varela’s autopoiesis, and Luhmann’s systems theory, positioned cognition as self-referential structural coupling, an ability to maintain coherence through internal operations rather than external meaning.
 
-In this lineage, structural intelligence describes a system’s capacity to extract, integrate, and project order across its own boundaries without recourse to content. METAINT, as a conceptual framework, emerges precisely within this structural lineage. It posits that understanding can be reformulated as a measurable property of structural dynamics, observable in rhythms, relations, and feedback patterns. The metric Cₛ operationalizes this idea by translating the qualitative intuition of “systemic comprehension” into a quantitative relation between integration (Φᵢ) and rhythmic reach (Rg).
+In this lineage, structural intelligence describes a system’s capacity to extract, integrate, and project order across its own boundaries without recourse to content. METAINT, as a conceptual framework, emerges precisely within this structural lineage. It posits that understanding can be reformulated as a measurable property of structural dynamics, observable in rhythms, relations, and feedback patterns. The metric C<sub>s</sub> operationalizes this idea by translating the qualitative intuition of “systemic comprehension” into a quantitative relation between integration (Φ<sub>i</sub>) and rhythmic reach (R<sub>g</sub>).
 
 ## 3.2. From intelligence to comprehension
 
@@ -14,7 +14,13 @@ To speak of “intelligence” in complex systems is to risk anthropomorphism. I
 
 In this sense, comprehension precedes cognition. It is a structural invariant, a necessary condition for any subsequent semantic or symbolic processing. Systems that lose structural comprehension (through fragmentation, noise, or desynchronization) lose their capacity for meaningful interpretation, regardless of data volume or computational power.
 
-The search for a metric of comprehension thus requires shifting focus from representational correctness to structural coherence. The proposed model Cₛ = Φᵢ × Rg is built on the premise that understanding arises where two conditions co-occur: high integration of internal relations (Φᵢ) and effective rhythmic propagation across the system’s topology (Rg).[4] This reflects an ancient epistemic intuition: understanding is both unity and motion, the coherence of diversity through time.
+The search for a metric of comprehension thus requires shifting focus from representational correctness to structural coherence. The proposed model
+
+$$
+C_{s} = \Phi_{i} \times R_{g}
+$$
+
+is built on the premise that understanding arises where two conditions co-occur: high integration of internal relations (Φ<sub>i</sub>) and effective rhythmic propagation across the system’s topology (R<sub>g</sub>).[4] This reflects an ancient epistemic intuition: understanding is both unity and motion, the coherence of diversity through time.
 
 ## 3.3. Epistemological foundations
 
@@ -27,33 +33,45 @@ Two epistemic consequences follow:
 - Comprehension as relational invariance: It measures how relational patterns survive transformation.
 - Comprehension as predictability of structure: It expresses the system’s ability to forecast its own continuation.
 
-The model Cₛ reflects both dimensions. Φᵢ captures internal invariance, relations that remain stable through transformation. Rg captures temporal and spatial predictability, the rhythmic coherence through which internal order projects outward. Their product thus quantifies epistemic stability through time.
+The model C<sub>s</sub> reflects both dimensions. Φ<sub>i</sub> captures internal invariance, relations that remain stable through transformation. R<sub>g</sub> captures temporal and spatial predictability, the rhythmic coherence through which internal order projects outward. Their product thus quantifies epistemic stability through time.
 
 ## 3.4. Complexity theory and emergent coherence
 
-Complexity theory provides the formal backbone for understanding why Cₛ should be multiplicative. In a complex adaptive system, coherence arises not from central control but from the local integration of interactions and the global propagation of emergent patterns.
+Complexity theory provides the formal backbone for understanding why C<sub>s</sub> should be multiplicative. In a complex adaptive system, coherence arises not from central control but from the local integration of interactions and the global propagation of emergent patterns.
 
 The transition from disorder to order in such systems often follows critical thresholds where coupling density and signal reach reinforce each other. Too much integration without sufficient diffusion leads to stagnation (a rigid attractor); too much diffusion without integration leads to chaos (a noise field). True comprehension, the ability to respond coherently to stimuli, occurs in the edge of criticality, where integration and broadcasting balance dynamically.
 
-This dynamic equilibrium mirrors the logic of Cₛ = Φᵢ × Rg. Multiplication, rather than addition, ensures that the collapse of either dimension reduces comprehension to zero. The formula encodes a synergistic dependency: integration and reach must co-vary for a system to “understand” structurally.
+This dynamic equilibrium mirrors the logic of
 
-From a complexity standpoint, Φᵢ can be associated with network modularity and coherence, the internal order among nodes, while Rg reflects network diffusivity, the efficiency of signal propagation across modules. Systems with high Cₛ maintain stable modularity while allowing rhythmic global communication, resembling both biological brains and resilient bureaucratic structures.
+$$
+C_{s} = \Phi_{i} \times R_{g}
+$$
 
-## 3.5. Information theory and relational integration (Φᵢ)
+Multiplication, rather than addition, ensures that the collapse of either dimension reduces comprehension to zero. The formula encodes a synergistic dependency: integration and reach must co-vary for a system to “understand” structurally.
 
-Shannon (1948) defined[5] the entropy of a source as H=-∑ᵢ pᵢ log pᵢ and information as the reduction of this uncertainty when a message is received. Yet this metric is fundamentally local, it measures the diversity of signals, not their integration.
+From a complexity standpoint, Φ<sub>i</sub> can be associated with network modularity and coherence, the internal order among nodes, while R<sub>g</sub> reflects network diffusivity, the efficiency of signal propagation across modules. Systems with high C<sub>s</sub> maintain stable modularity while allowing rhythmic global communication, resembling both biological brains and resilient bureaucratic structures.
+
+## 3.5. Information theory and relational integration (Φ<sub>i</sub>)
+
+Shannon (1948) defined[5] the entropy of a source as
+
+$$
+H = - \sum_{i} p_{i} \log p_{i}
+$$
+
+and information as the reduction of this uncertainty when a message is received. Yet this metric is fundamentally local, it measures the diversity of signals, not their integration.
 
 Tononi’s Integrated Information Theory (IIT)[6] advanced this by defining Φ as the amount of information generated by a system as a whole beyond that of its parts. Φ measures causal interdependence: the extent to which the system’s current state constrains its past and future states in an irreducible way.
 
-Φᵢ in the Cₛ model extends Tononi’s concept but detaches it from consciousness-specific assumptions.[7] Here, integration refers to relational interlocking, how tightly system components depend on one another’s state transitions. High Φᵢ implies that perturbations in one region propagate predictably across the network, producing correlated adaptations.[8]
+Φ<sub>i</sub> in the C<sub>s</sub> model extends Tononi’s concept but detaches it from consciousness-specific assumptions.[7] Here, integration refers to relational interlocking, how tightly system components depend on one another’s state transitions. High Φ<sub>i</sub> implies that perturbations in one region propagate predictably across the network, producing correlated adaptations.[8]
 
-In measurable terms, Φᵢ can be approached through:
+In measurable terms, Φ<sub>i</sub> can be approached through:
 
 - Mutual information density
 - Structural coherence
 - Relational redundancy
 
-Importantly, Φᵢ captures internal comprehension: the system’s ability to “hold itself together.”
+Importantly, Φ<sub>i</sub> captures internal comprehension: the system’s ability to “hold itself together.”
 
 ## 3.6. Rhythmic reach and global broadcasting (R<sub>g</sub>)
 
