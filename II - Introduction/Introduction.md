@@ -16,7 +16,7 @@ CIITR extends this logic by operationalizing comprehension (Cₛ) as the measura
 
 Absent such a metric, the study of systemic intelligence, whether in artificial systems, organizations, or cognitive architectures, remains primarily descriptive rather than predictive.
 
-## 2.3 Contribution: a structural metric for predictive comprehension
+## 2.3 Contribution: a structural metric for predictive comprehension (C) of a system (s)
 
 This paper introduces a minimalistic but extensible formulation:
 
@@ -24,11 +24,11 @@ $$
 C_{s} = \Phi_{i} \times R_{g}
 $$
 
-In this formulation, Φᵢ represents the internal density of integrated relations, that is, how tightly coupled the system’s elements are, while Rᵍ represents the global rhythmic range, that is, how far and how coherently those relations propagate.
+In this formulation, Φ<sub>i</sub> represents the internal density of integrated relations, that is, how tightly coupled the system’s elements are, while R<sub>g</sub> represents the global rhythmic range, that is, how far and how coherently those relations propagate.
 
 The multiplicative structure implies that comprehension collapses toward zero whenever either term approaches zero. Integration without transmission yields informational isolation. Transmission without integration yields diffuse incoherence. In both cases, structural comprehension vanishes.
 
-This property renders Cₛ a potentially predictive indicator of failure, brittleness, or emergent insight in complex systems, independent of semantic interpretation.
+This property renders C<sub>s</sub> a potentially predictive indicator of failure, brittleness, or emergent insight in complex systems, independent of semantic interpretation.
 
 ## 2.4 Aim: invitation to theoretical and empirical testing
 
