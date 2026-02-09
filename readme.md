@@ -30,9 +30,9 @@ The intention is that external readers, researchers, and technical evaluators ca
 
 CIITR defines structural comprehension as a constrained epistemic condition emerging only when relational integration and temporal re-entry co-exist.
 
-\[
+$$
 C_s = \Phi_i \times R_g
-\]
+$$
 
 Where:
 
