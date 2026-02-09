@@ -1,4 +1,4 @@
-## Conclusion: CIITR as Strategic Technopolitics
+## CIITR as Strategic Technopolitics
 
 Reframing comprehension through CIITR transforms it from an attractive property in advanced software into a structural condition with direct implications for sovereignty, command, and international security. Once comprehension is defined as the product of integrated relational information and rhythmic reach,
 

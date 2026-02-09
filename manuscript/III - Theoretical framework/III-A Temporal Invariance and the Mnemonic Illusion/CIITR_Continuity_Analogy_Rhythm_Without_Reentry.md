@@ -2,7 +2,7 @@
 
 *Clinical neurology as evidence that rhythm without re-entry is cognitively dead structure*
 
-The clinical literature provides an unexpected yet powerful empirical analogue to the CIITR distinction between rhythm and rhythmic epistemic re-entry. :contentReference[oaicite:0]{index=0}’ well-documented case, commonly referred to as “The Last Hippie”, presents a neurological condition in which continuity of temporal experience is preserved, yet the capacity for epistemic re-entry appears absent. The patient remains rhythmically synchronized with his environment, capable of engaging in song, conversation, and procedural social reciprocity, but when the temporal sequence collapses, nothing returns. Each moment is lived, but none is re-entered.
+The clinical literature provides an unexpected yet powerful empirical analogue to the CIITR distinction between rhythm and rhythmic epistemic re-entry. Referenc  well-documented case, commonly referred to as “The Last Hippie”, presents a neurological condition in which continuity of temporal experience is preserved, yet the capacity for epistemic re-entry appears absent. The patient remains rhythmically synchronized with his environment, capable of engaging in song, conversation, and procedural social reciprocity, but when the temporal sequence collapses, nothing returns. Each moment is lived, but none is re-entered.
 
 From a CIITR perspective, this case illuminates a critical distinction:
 

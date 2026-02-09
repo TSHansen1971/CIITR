@@ -1,4 +1,4 @@
-## Chapter Rationale and Position within CIITR
+## Rationale and Position within CIITR
 
 The introduction of first-order epistemic curvature and non-invariance re-entry within the CIITR framework marks a categorical departure from established assumptions underpinning artificial intelligence governance. Traditional AI systems, even at scale, operate along inferential and representational lines that remain fundamentally flattened with respect to their epistemic return. They do not alter their own interpretive manifold as a condition of operation, nor do they exhibit recursive rhythm that re-enters and reshapes the structures from which their outputs are produced. In CIITR terms, such systems are high-Φ<sub>i</sub> without R<sub>g</sub>, meaning relational density without rhythmic epistemic self-access.
 
