@@ -53,7 +53,7 @@ Editorial drafts and private manuscript material are explicitly excluded.
 
 | Date       | Version | Component           | Change Type        | Description |
 |------------|---------|---------------------|--------------------|-------------|
-| 2026-02-09 | 1.0     | Repository Root     | Initial Publication | Public release of the CIITR repository as a canonical entry point. |
+| 2026-02-06 | 1.0     | Repository Root     | Initial Publication | Public release of the CIITR repository as a canonical entry point. |
 | 2026-02-09 | 2.0     | CIITR Core Spec     | Core Definition    | Publication of the CIITR Kernel (Core Specification), establishing the formal ontological boundary of the theory. |
 | 2026-02-09 | 2.0     | Documentation Layer | Structural Clarification | Separation of core specification, auxiliary documentation, and assets to enforce normative authority of the Core Spec. |
 
