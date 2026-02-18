@@ -1,0 +1,34 @@
+flowchart TD
+    Start["Start: Vurdering av Tjeneste/Data"]
+    SjekkLov{"Er tjenesten omfattet av<br/>Sikkerhetsloven § 5-1?"}
+    JaLov["Ja: Følg Sikkerhetsloven<br/>(Bind 3 gjelder ikke som primærkilde)"]
+    NeiLov["Nei: Fortsett etter Bind 3"]
+    
+    SjekkRisk{"Er beskyttelsesbehovet<br/>moderat til høyt?"}
+    JaRisk["Ja: Nivå FORSTERKET"]
+    NeiRisk["Nei: Nivå MINIMUM"]
+    
+    SjekkKritisk{"Er tjenesten kritisk for<br/>grunnleggende nasjonale funksjoner<br/>(utenom Sikkerhetsloven)?"}
+    JaKritisk["Ja: Nivå HØY"]
+    
+    SjekkSuverenitet{"Foreligger særskilte<br/>suverenitetsrisikoer?<br/>(f.eks. tredjelandsjurisdiksjon)"}
+    JaSuv["Ja: Oppjuster Nivå"]
+    NeiSuv["Nei: Behold Nivå"]
+
+    Start --> SjekkLov
+    SjekkLov -->|Ja | JaLov
+    SjekkLov -->|Nei | NeiLov
+    NeiLov --> SjekkRisk
+    SjekkRisk -->|Ja | JaRisk
+    SjekkRisk -->|Nei | NeiRisk
+    JaRisk --> SjekkKritisk
+    NeiRisk --> SjekkSuverenitet
+    SjekkKritisk -->|Ja | JaKritisk
+    SjekkKritisk -->|Nei | SjekkSuverenitet
+    SjekkSuverenitet -->|Ja | JaSuv
+    SjekkSuverenitet -->|Nei | NeiSuv
+
+    style JaLov fill:#ffcccc,stroke:#333
+    style JaKritisk fill:#ff9999,stroke:#333
+    style JaRisk fill:#ffcc99,stroke:#333
+    style NeiRisk fill:#ccffcc,stroke:#333
