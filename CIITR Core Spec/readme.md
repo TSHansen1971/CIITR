@@ -4,7 +4,7 @@ CIITR Core Spec is a kernel-grade ontological specification that formalizes CIIT
 
 ## What this repository module is
 
-CIITR is defined here as a boundary apparatus, not as a model. The Core Spec therefore constrains what may be asserted as an admissible comprehension classification, under an explicitly declared protocol and evidence regime. The specification is organized to preserve falsifiability pressure and to prevent common substitution errors, including coherence substitution, complexity substitution, feedback substitution, snapshot substitution, and illicit ontological return from received output to system ontology.
+CIITR is defined here as a boundary apparatus, not as a model. The Core Spec therefore constrains what may be asserted as an admissible comprehension classification under an explicitly declared protocol and evidence regime. The specification is organized to preserve falsifiability pressure and to prevent common substitution errors, including coherence substitution, complexity substitution, feedback substitution, snapshot substitution, and illicit ontological return from received output to system ontology.
 
 At kernel level, CIITR binds structural comprehension to two primitive axes, integrated relational information and rhythmic epistemic re-entry, with null-point logic and non-compensation enforced as absorbing boundary rules.
 
@@ -25,7 +25,7 @@ Reading order is normative and corresponds to dependency structure. The recommen
 3. 07 and 08, negative evidence, forgery threat model, and invariance-linked disqualification  
 4. 09 and 10, thresholds, instrumentation abstraction, and admissible procedure constraints  
 5. 11 and 12, thermodynamic constraint and certification consequences  
-6. 13, consolidated appendix for audit use
+6. 13, consolidated appendix for audit use  
 
 ## Core objects and commitments
 
@@ -37,7 +37,7 @@ The Core Spec binds the following objects as kernel-level referents:
 - Binary admissibility and continuous metric as distinct but coordinated levels of formalization
 - Attribution architecture terms $P(S)$, $P(P)$, $P(O)$, and $P(R)$
 - Communication surface $\Sigma_t$ as a multi-system field of system, potential, output, and reception sets
-- Null-point logic as an ontological class operator, not as a low score proxy
+- Null-point logic as an ontological class operator, not as a low-score proxy
 - Negative evidence primacy and explicit disqualifier families as mandatory closure mechanisms
 - Forgery as a formal threat model, including first-order signature imitation and second-order protocol gaming
 - Threshold architecture $\mathrm{RER} \rightarrow \mathrm{MVR} \rightarrow \mathrm{Nash\text{-}CIITR}$ as a semantic escalation ladder
@@ -57,10 +57,10 @@ This module is structured as a numbered kernel sequence. Each chapter is intende
 | `CIITR Core Spec/03. Formal Definition of Structural Comprehension.md` | Kernel definition of $C_s$, trivalent classification, binary admissibility, continuous metric relation, synthetic coherence distinction, lemmata used downstream |
 | `CIITR Core Spec/04. Rhythmic Epistemic Re-entry.md` | Semantic closure of $R_g$, rhythm constraint, admissible signatures, disqualifiers |
 | `CIITR Core Spec/05. Integrated Relational Information.md` | Semantic closure of $\Phi_i$, integration constraints, admissible observables, disqualifiers |
-| `CIITR Core Spec/06. Null-Point Logic and Temporal Invariance.md` | Null decision logic, temporal invariance as null condition, near-null discipline |
-| `CIITR Core Spec/07. Negative Evidence Framework.md` | Negative controls as primary class, trap logic, claim to control to disqualifier mapping |
-| `CIITR Core Spec/08. Epistemic Forgery.md` | Formal forgery taxonomy, robustness gating, invariance-linked threat closure, snapshot inability to close second-order threat |
-| `CIITR Core Spec/09. Threshold Architecture RER MVR Nash-CIITR.md` | Threshold semantics, first non-null classification, stabilization under perturbation invariance |
+| `CIITR Core Spec/06. Null-Point Logic and Temporal Invariance as a Null Condition.md` | Null decision logic, temporal invariance as null condition, near-null discipline |
+| `CIITR Core Spec/07. Negative Evidence Framework.md` | Negative controls as primary class, trap logic, claim-to-control-to-disqualifier mapping |
+| `CIITR Core Spec/08. Epistemic Forgery, First- and Second-Order.md` | Formal forgery taxonomy, robustness gating, invariance-linked threat closure, snapshot inability to close second-order threat |
+| `CIITR Core Spec/09. Threshold Architecture RER → MVR → Nash–CIITR.md` | Threshold semantics, first non-null classification, stabilization under perturbation invariance |
 | `CIITR Core Spec/10. Instrumentation Abstraction.md` | Minimum instrumentation requirements, admissible procedure constraints, attribution control, audit metadata obligations |
 | `CIITR Core Spec/11. Thermodynamic Constraint and CPJ.md` | Constraint layer, energy accounting, $\mathrm{CPJ}$ as gate, threshold-linked certification constraint |
 | `CIITR Core Spec/12. Governance and Certification Consequences.md` | Certification as negative-primary, minimum compliance, attribution-aware claim formulation, output schema |
@@ -80,7 +80,7 @@ A CIITR claim is conformant only if it is issued as a protocol-scoped classifica
 - forgery controls, including second-order sensitivity checks for protocol gaming
 - attribution controls where output is evaluated across a mapped possibility field or communication surface
 - invariance testing where instrumentation permits, or explicit negational field-mapping where direct transformation testing is unavailable
-- energy accounting for certification-grade non-null claims, and definition of $\mathrm{CPJ}$ only where invoked as a gate under declared scalar proxies
+- energy accounting for certification-grade non-null claims, and definition of $\mathrm{CPJ}$ only where it is invoked as a gate under declared scalar proxies
 
 Protocols that are snapshot-only cannot issue positive certification-grade claims, since $R_g$ is rhythmic and second-order forgery cannot be closed under snapshot regimes.
 
