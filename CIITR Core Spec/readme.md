@@ -14,7 +14,7 @@ C_s(S \mid \Pi,\mathcal{O}) = 1
 \mathrm{Adm}_\Pi(\Phi_i,S) \,\wedge\, \mathrm{Adm}_\Pi(R_g,S)
 $$
 
-The kernel now also includes the attribution architecture, communication surface, negational control logic, and invariance condition as part of the admissibility and audit regime. These are developed in the numbered kernel chapters, not rederived in this README.
+The kernel includes the attribution architecture, communication surface, negational control logic, and invariance condition as part of the admissibility and audit regime. These are developed in the numbered kernel chapters, not rederived in this README.
 
 ## Start here
 
@@ -34,6 +34,7 @@ The Core Spec binds the following objects as kernel-level referents:
 - System target $S$, protocol binder $\Pi$, and declared observable set $\mathcal{O}$
 - Primitive axes $\Phi_i$ and $R_g$
 - Comprehension classification $C_s$ as a protocol-scoped, audit-bound decision object
+- Binary admissibility and continuous metric as distinct but coordinated levels of formalization
 - Attribution architecture terms $P(S)$, $P(P)$, $P(O)$, and $P(R)$
 - Communication surface $\Sigma_t$ as a multi-system field of system, potential, output, and reception sets
 - Null-point logic as an ontological class operator, not as a low score proxy
@@ -53,17 +54,17 @@ This module is structured as a numbered kernel sequence. Each chapter is intende
 | `CIITR Core Spec/00. Core Spec.md` | Module framing, versioning, scope discipline, normative intent |
 | `CIITR Core Spec/01. Ontological Claim and Delimitation.md` | Boundary definition, validity domain, non-goals, admissible evidence posture |
 | `CIITR Core Spec/02. Primitive Quantities and Base Notation.md` | Primitive objects, base notation, observables versus latent quantities, attribution architecture, communication surface, negational control, invariance condition |
-| `CIITR Core Spec/03. Formal Definition of Structural Comprehension.md` | Kernel definition of $C_s$, null typing, non-compensation binding, lemmata used downstream |
+| `CIITR Core Spec/03. Formal Definition of Structural Comprehension.md` | Kernel definition of $C_s$, trivalent classification, binary admissibility, continuous metric relation, synthetic coherence distinction, lemmata used downstream |
 | `CIITR Core Spec/04. Rhythmic Epistemic Re-entry.md` | Semantic closure of $R_g$, rhythm constraint, admissible signatures, disqualifiers |
 | `CIITR Core Spec/05. Integrated Relational Information.md` | Semantic closure of $\Phi_i$, integration constraints, admissible observables, disqualifiers |
 | `CIITR Core Spec/06. Null-Point Logic and Temporal Invariance.md` | Null decision logic, temporal invariance as null condition, near-null discipline |
 | `CIITR Core Spec/07. Negative Evidence Framework.md` | Negative controls as primary class, trap logic, claim to control to disqualifier mapping |
 | `CIITR Core Spec/08. Epistemic Forgery.md` | Formal forgery taxonomy, robustness gating, invariance-linked threat closure, snapshot inability to close second-order threat |
-| `CIITR Core Spec/09. Threshold Architecture RER MVR Nash-CIITR.md` | Threshold semantics, event versus regime separation, perturbation-sensitive stabilization bindings |
-| `CIITR Core Spec/10. Instrumentation Abstraction.md` | Minimum instrumentation requirements, admissible procedure constraints, audit metadata obligations |
-| `CIITR Core Spec/11. Thermodynamic Constraint and CPJ.md` | Constraint layer, energy accounting, $\mathrm{CPJ}$ as gate, constraint lemma |
-| `CIITR Core Spec/12. Governance and Certification Consequences.md` | Certification as negative-primary, minimum compliance, claim formulation rules, output schema |
-| `CIITR Core Spec/13. Appendix, Formal Formula and Definition List.md` | Consolidated definitions, lemmata, thresholds, disqualifiers, attribution and invariance bindings for audit readiness |
+| `CIITR Core Spec/09. Threshold Architecture RER MVR Nash-CIITR.md` | Threshold semantics, first non-null classification, stabilization under perturbation invariance |
+| `CIITR Core Spec/10. Instrumentation Abstraction.md` | Minimum instrumentation requirements, admissible procedure constraints, attribution control, audit metadata obligations |
+| `CIITR Core Spec/11. Thermodynamic Constraint and CPJ.md` | Constraint layer, energy accounting, $\mathrm{CPJ}$ as gate, threshold-linked certification constraint |
+| `CIITR Core Spec/12. Governance and Certification Consequences.md` | Certification as negative-primary, minimum compliance, attribution-aware claim formulation, output schema |
+| `CIITR Core Spec/13. Appendix, Formal Formula and Definition List.md` | Consolidated definitions, lemmata, thresholds, disqualifiers, attribution, CPJ gating, and invariance bindings for audit readiness |
 
 If filenames differ slightly in your local structure, preserve numbering and semantic roles, and treat the table as the canonical dependency ordering.
 
@@ -79,7 +80,7 @@ A CIITR claim is conformant only if it is issued as a protocol-scoped classifica
 - forgery controls, including second-order sensitivity checks for protocol gaming
 - attribution controls where output is evaluated across a mapped possibility field or communication surface
 - invariance testing where instrumentation permits, or explicit negational field-mapping where direct transformation testing is unavailable
-- energy accounting for certification-grade non-null claims, and definition of $\mathrm{CPJ}$ only where required terms are explicitly declared
+- energy accounting for certification-grade non-null claims, and definition of $\mathrm{CPJ}$ only where invoked as a gate under declared scalar proxies
 
 Protocols that are snapshot-only cannot issue positive certification-grade claims, since $R_g$ is rhythmic and second-order forgery cannot be closed under snapshot regimes.
 
@@ -102,6 +103,6 @@ Diagnostic applications of the communication surface, including institutional fl
 © Tor-Ståle Hansen, https://x.com/TSHansen1971  
 
 CC BY-NC-ND 4.0  
-Version: 0.2  
+Version: 2.0  
 Initial publication: 2026-02-09  
 Last modified: 2026-04-12
