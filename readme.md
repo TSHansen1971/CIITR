@@ -56,6 +56,8 @@ Editorial drafts and private manuscript material are explicitly excluded.
 | 2026-02-06 | 1.0     | Repository Root     | Initial Publication | Public release of the CIITR repository as a canonical entry point. |
 | 2026-02-09 | 1.0     | CIITR Core Spec     | Core Definition    | Publication of the CIITR Kernel (Core Specification), establishing the formal ontological boundary of the theory. |
 | 2026-02-09 | 1.0     | Documentation Layer | Structural Clarification | Separation of core specification, auxiliary documentation, and assets to enforce normative authority of the Core Spec. |
+| 2026-04-12 | 2.0     | Core Spec Ch. 02    | Structural Extension | Addition of Sections 2.5–2.8: attribution architecture $P(S) \to P(P) \to P(O) \to P(R)$, communication surface $\Sigma_t$, governing prohibition $P(R) \not\Rightarrow P(S)$, negational principle with four admissibility conditions for back-inference, and the invariance condition $F \in \mathrm{Struct}(S) \Longleftrightarrow \forall T \in \mathcal{T}(S), \forall s \in \mathrm{State}(S), F(T(s)) = F(s)$. |
+| 2026-04-12 | 2.0     | Core Spec Ch. 13    | Appendix Extension | Addition of 11 new definitions, lemmata A2.10–A2.18, 3 new disqualifier families, and new Section A5 (admissibility conditions for back-inference). |
 
 Future entries will document the publication of theory notes, formal papers, and additional CIITR-aligned analytical material.
 
@@ -74,6 +76,6 @@ This is the minimal formal body required to state the theory unambiguously.
 © Tor-Ståle Hansen, https://x.com/TSHansen1971  
 
 CC BY-NC-ND 4.0  
-Version: 1.0  
+Version: 2.0  
 Initial publication: 2026-02-09  
-Last modified: 2026-02-09
+Last modified: 2026-04-12
