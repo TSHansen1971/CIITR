@@ -53,6 +53,6 @@ This release should be treated as the current normative kernel unless explicitly
 © Tor-Ståle Hansen, https://x.com/TSHansen1971  
 
 CC BY-NC-ND 4.0  
-Version: 1.0  
+Version: 2.0  
 Initial publication: 2026-04-12  
 Last modified: 2026-04-12
